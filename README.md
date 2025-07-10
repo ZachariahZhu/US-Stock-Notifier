@@ -29,12 +29,6 @@ A  desktop assistant for monitoring US stock prices, supporting real-time price 
    pip install pyinstaller
    ```
 
-## Packaging to EXE
-```bash
-pyinstaller --onefile --windowed --name "US Stock Notifier" --add-data "README.md;." stock_notifier_gui.py
-```
-The exe will be generated in the `dist/` folder.
-
 ## Usage
 1. Run the program:
    - Double-click the exe, or

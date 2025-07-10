@@ -18,14 +18,10 @@ A  desktop assistant for monitoring US stock prices, supporting real-time price 
 - tkinter (comes with Python)
 
 ## Installation
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. (Optional) For packaging as an exe:
-   ```bash
-   pip install pyinstaller
-   ```
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
 
 ## Usage
 1. Run the program:

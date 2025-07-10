@@ -5,9 +5,7 @@ A  desktop assistant for monitoring US stock prices, supporting real-time price 
 ## Features
 - Real-time monitoring of US stock prices (using Yahoo Finance)
 - Customizable stock list and notification interval
-- Apple-style modern UI (light gray/blue, rounded corners, modern fonts)
 - Desktop notifications (native Windows 10/11 notification)
-- System tray icon, can minimize to tray
 - Operation log and status bar
 - One-click language switch (Chinese/English)
 

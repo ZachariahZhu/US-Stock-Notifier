@@ -5,9 +5,7 @@ A beautiful Apple-style desktop assistant for monitoring US stock prices, suppor
 ## Features
 - Real-time monitoring of US stock prices (using Yahoo Finance)
 - Customizable stock list and notification interval
-- Apple-style modern UI (light gray/blue, rounded corners, modern fonts)
 - Desktop notifications (native Windows 10/11 notification)
-- System tray icon, can minimize to tray
 - Operation log and status bar
 - One-click language switch (Chinese/English)
 
@@ -53,5 +51,3 @@ Install dependencies:
 - **Font not displaying correctly?**
   - The app uses system fallback fonts if PingFang/Menlo are not available.
 
-## License
-MIT 

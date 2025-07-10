@@ -1,11 +1,13 @@
 # US Stock Notifier
 
-A  desktop assistant for monitoring US stock prices, supporting real-time price display, desktop notifications, and system tray operation. Supports both Chinese and English interfaces.
+A beautiful Apple-style desktop assistant for monitoring US stock prices, supporting real-time price display, desktop notifications, and system tray operation. Supports both Chinese and English interfaces.
 
 ## Features
 - Real-time monitoring of US stock prices (using Yahoo Finance)
 - Customizable stock list and notification interval
+- Apple-style modern UI (light gray/blue, rounded corners, modern fonts)
 - Desktop notifications (native Windows 10/11 notification)
+- System tray icon, can minimize to tray
 - Operation log and status bar
 - One-click language switch (Chinese/English)
 
@@ -19,9 +21,9 @@ A  desktop assistant for monitoring US stock prices, supporting real-time price 
 
 ## Installation
 Install dependencies:
-```bash
-pip install -r requirements.txt
-
+ ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 1. Run the program:
